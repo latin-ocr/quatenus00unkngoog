@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quatenus00unkngoog_0086.png"; bbox 0 0 3475 5609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 8 12 48 330">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 8 12 48 330">
+     <span class='ocr_line' id='line_1_1' title="bbox 8 12 48 330; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 8 303 9 330; x_wconf 43' lang='lat'><em>‘⁴</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 8 12 48 268; x_wconf 52' lang='grc' dir='ltr'><em>Η“-“Ἴ“Ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1006 2339 2029 2431">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1006 2339 2029 2431">
+     <span class='ocr_line' id='line_1_2' title="bbox 1006 2339 2029 2431; baseline -0.005 0"><span class='ocrx_word' id='word_1_3' title='bbox 1006 2341 1342 2431; x_wconf 85' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_4' title='bbox 1449 2339 1951 2429; x_wconf 87' lang='lat' dir='ltr'>TERTIUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 2012 2374 2029 2426; x_wconf 91' lang='lat'>:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 289 2568 2734 2798">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 289 2568 2734 2798">
+     <span class='ocr_line' id='line_1_3' title="bbox 289 2568 2734 2671; baseline -0 -28"><span class='ocrx_word' id='word_1_6' title='bbox 289 2569 523 2663; x_wconf 81' lang='lat' dir='ltr'>QUAS</span> <span class='ocrx_word' id='word_1_7' title='bbox 575 2590 865 2646; x_wconf 68' lang='lat' dir='ltr'>PAR-ras</span> <span class='ocrx_word' id='word_1_8' title='bbox 915 2592 1020 2645; x_wconf 82' lang='grc' dir='ltr'><em>Αι)</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1074 2591 1615 2647; x_wconf 72' lang='grc' dir='ltr'><em>ΗιεΡΑΝιεΝεεΜ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1669 2599 1708 2640; x_wconf 77' lang='grc'><strong>«</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1738 2568 2057 2644; x_wconf 82' lang='lat' dir='ltr'><em>comedia</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 2087 2599 2128 2641; x_wconf 81' lang='grc'>»</span> <span class='ocrx_word' id='word_1_13' title='bbox 2170 2592 2368 2646; x_wconf 76' lang='lat' dir='ltr'>ANTE</span> <span class='ocrx_word' id='word_1_14' title='bbox 2423 2572 2604 2671; x_wconf 62' lang='lat' dir='ltr'><em>Lope</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 2652 2578 2734 2642; x_wconf 52' lang='lat' dir='ltr'><em>ff&amp;</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 761 2694 2311 2798; baseline 0.001 -29"><span class='ocrx_word' id='word_1_16' title='bbox 761 2696 952 2798; x_wconf 79' lang='lat' dir='ltr'><em>Vega</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1002 2718 1534 2772; x_wconf 69' lang='lat' dir='ltr'>EFFmGssunAM</span> <span class='ocrx_word' id='word_1_18' title='bbox 1588 2694 1962 2771; x_wconf 72' lang='lat' dir='ltr'><em>Celes-tina</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 2012 2717 2311 2771; x_wconf 66' lang='lat' dir='ltr'><strong>anm-r.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quatenus00unkngoog_0044.png"; bbox 0 0 3475 5609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 440 2184 1072 2273">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 440 2184 1072 2273">
+     <span class='ocr_line' id='line_1_1' title="bbox 440 2184 1072 2273; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 440 2236 441 2241; x_wconf 19' lang='grc' dir='ltr'><strong><em>κ</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 507 2186 670 2272; x_wconf 80' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_3' title='bbox 736 2184 1072 2273; x_wconf 88' lang='lat' dir='ltr'>SECUNDUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 226 2409 1340 2627">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 226 2409 1340 2627">
+     <span class='ocr_line' id='line_1_2' title="bbox 226 2409 1340 2509; baseline 0 -24"><span class='ocrx_word' id='word_1_4' title='bbox 226 2414 348 2509; x_wconf 81' lang='lat' dir='ltr'><em>Caput</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 376 2409 606 2482; x_wconf 81' lang='lat' dir='ltr'><em>secundum.-</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 637 2409 739 2502; x_wconf 78' lang='lat' dir='ltr'><em>Qum</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 767 2430 816 2480; x_wconf 74' lang='lat' dir='ltr'><em>An</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 842 2428 1034 2482; x_wconf 75' lang='lat' dir='ltr'>PERSONAS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1061 2432 1340 2485; x_wconf 63' lang='lat' dir='ltr'><strong>ossscssmsswms</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 408 2530 1168 2627; baseline -0.001 -19"><span class='ocrx_word' id='word_1_10' title='bbox 408 2534 604 2608; x_wconf 82' lang='lat' dir='ltr'><em>Fernando</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 616 2534 659 2604; x_wconf 87' lang='lat' dir='ltr'><em>de</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 677 2530 792 2627; x_wconf 77' lang='lat' dir='ltr'><em>Rojas</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 812 2553 903 2605; x_wconf 79' lang='lat' dir='ltr'><em>Now</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 923 2554 1168 2607; x_wconf 72' lang='lat' dir='ltr'><em>Anfflssussm.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1742 5609">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1742 5609">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1742 5609; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1742 5609; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

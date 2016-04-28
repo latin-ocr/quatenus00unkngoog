@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quatenus00unkngoog_0064.png"; bbox 0 0 3475 5609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 514 2344 1069 2492">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 514 2344 1069 2492">
+     <span class='ocr_line' id='line_1_1' title="bbox 514 2344 1069 2492; baseline -0.002 -13"><span class='ocrx_word' id='word_1_1' title='bbox 514 2344 680 2492; x_wconf 63' lang='lat' dir='ltr'>unffi&lt;</span> <span class='ocrx_word' id='word_1_2' title='bbox 738 2389 1069 2478; x_wconf 78' lang='lat' dir='ltr'>SECUNDUS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1 2615 1309 2820">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1 2615 1309 2820">
+     <span class='ocr_line' id='line_1_2' title="bbox 2 2615 1309 2755; baseline 0.004 -67"><span class='ocrx_word' id='word_1_3' title='bbox 2 2684 6 2755; x_wconf 23' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_4' title='bbox 249 2615 366 2716; x_wconf 70' lang='lat' dir='ltr'><em>Caput</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 393 2616 549 2692; x_wconf 81' lang='lat' dir='ltr'><em>tertium</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 575 2653 586 2693; x_wconf 94' lang='lat'>.·</span> <span class='ocrx_word' id='word_1_7' title='bbox 616 2617 705 2712; x_wconf 72' lang='lat' dir='ltr'>QuA</span> <span class='ocrx_word' id='word_1_8' title='bbox 731 2637 835 2692; x_wconf 77' lang='lat' dir='ltr'>NOVA</span> <span class='ocrx_word' id='word_1_9' title='bbox 864 2617 978 2718; x_wconf 85' lang='lat' dir='ltr'><em>Rojas</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1003 2638 1104 2692; x_wconf 74' lang='lat' dir='ltr'>Am</span> <span class='ocrx_word' id='word_1_11' title='bbox 1130 2639 1309 2693; x_wconf 59' lang='lat' dir='ltr'><strong>muham</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1 2763 1192 2820; baseline 0.006 -9"><span class='ocrx_word' id='word_1_12' title='bbox 1 2764 4 2811; x_wconf 85' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_13' title='bbox 374 2763 618 2820; x_wconf 70' lang='lat' dir='ltr'><strong>msposussm</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 638 2765 687 2819; x_wconf 74' lang='grc' dir='ltr'>ιτ</span> <span class='ocrx_word' id='word_1_15' title='bbox 713 2763 766 2816; x_wconf 74' lang='lat' dir='ltr'>An</span> <span class='ocrx_word' id='word_1_16' title='bbox 792 2765 938 2818; x_wconf 65' lang='lat' dir='ltr'>2me</span> <span class='ocrx_word' id='word_1_17' title='bbox 964 2764 1192 2818; x_wconf 65' lang='lat' dir='ltr'>naucum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 3255 2 4100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 3255 2 4100">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 3255 2 4100; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 3255 2 4100; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1742 5604">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1742 5604">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1742 5604; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1742 5604; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
